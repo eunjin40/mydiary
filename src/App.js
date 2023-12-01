@@ -23,7 +23,6 @@ function App() {
         <DiaryAdd></DiaryAdd>
         <DiaryEdit></DiaryEdit> */}
       </div>
-      <h1>정화섭 강사님 사랑합니다. 존경합니다. 파이팅!!!</h1>
     </div>
   );
 }
